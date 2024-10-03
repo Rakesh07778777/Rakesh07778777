@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakesh Shil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qG18a09h0wSBZjPZlwUJnw.gif">
+<img align="right" alt="coding" width="250" height="300" src="https://miro.medium.com/v2/resize:fit:1358/1*qG18a09h0wSBZjPZlwUJnw.gif">
 
 <p align="left"> </p>
-<img align="right" width="400" height="400" src="https://github.com/Rakesh07778777/Rakesh07778777/blob/main/1_qG18a09h0wSBZjPZlwUJnw.gif" />
+
 
 - 🔭 I’m currently working on ClassRank **ClassRank**
 
