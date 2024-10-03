@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*qG18a09h0wSBZjPZlwUJnw.gif">
 
 <p align="left"> </p>
-    <img src="https://komarev.com/ghpvc/?username=rakesh07778777&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh07778777" />
+<img align="left" width="400" src="" />
 
 - 🔭 I’m currently working on ClassRank **ClassRank**
 
