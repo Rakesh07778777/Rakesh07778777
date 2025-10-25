@@ -4,12 +4,6 @@
 <p align="left"> </p>
 
 
-- 🔭 I’m currently working on ClassRank **ClassRank**
-
-- 🌱 I’m currently learning **Html,Css,JavaScript**
-
-- 🤝 I’m looking for help with **ClassRank, Ed tech(ZiPPStudy)**
-
 - 📫 How to reach me **shilrakesh04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
