@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Shil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="250" height="300" src="https://github.com/Rakesh07778777/Rakesh07778777/blob/main/1_qG18a09h0wSBZjPZlwUJnw.gif">
 
 <p align="left"> </p>
 
